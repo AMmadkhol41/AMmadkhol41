@@ -1,7 +1,7 @@
 <section align="center">
   <h1>🌀 Hey there, I’m Ahmed Magdy</h1>
   <p>A Madkhol adventurer building server-side magic behind the scenes.</p>
-  <img src="https://komarev.com/ghpvc/?username=AhmedMagdy&style=flat-square&color=purple" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=AMmadkhol41&style=flat-square&color=purple" alt="Profile views" />
 </section>
 
 ---
@@ -33,7 +33,9 @@ I’m a problem-solver, coffee enthusiast, and midnight coder. By day, I archite
 * Contributing to open-source communities
 * Brewing the perfect cup of coffee
 
+---
+
 <section align="center">
   <p>“Code is like humor. When you have to explain it, it’s bad.”</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedMagdy&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AMmadkhol41&show_icons=true&theme=radical" alt="GitHub Stats" />
 </section>
