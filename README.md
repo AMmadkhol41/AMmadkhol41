@@ -33,27 +33,6 @@ I’m a problem-solver, coffee enthusiast, and midnight coder. By day, I archite
 * Contributing to open-source communities
 * Brewing the perfect cup of coffee
 
----
-
-## 📫 Let’s Connect
-
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="mailto:a.magdy@madkhol.com">
-        <img src="https://img.shields.io/badge/Email-%40ahmed.magdy-blue" alt="Email badge" />
-      </a>
-    </td>
-    <td align="center">
-      <a href="[https://linkedin.com/in/ahmed-magdy](https://www.linkedin.com/in/am412002/)">
-        <img src="https://img.shields.io/badge/LinkedIn-AhmedMagdy-0A66C2" alt="LinkedIn badge" />
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
 <section align="center">
   <p>“Code is like humor. When you have to explain it, it’s bad.”</p>
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedMagdy&show_icons=true&theme=radical" alt="GitHub Stats" />
