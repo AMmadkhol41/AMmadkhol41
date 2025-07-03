@@ -1,7 +1,8 @@
 <section align="center">
   <h1>🌀 Hey there, I’m Ahmed Magdy</h1>
   <p>A Madkhol adventurer building server-side magic behind the scenes.</p>
-  <img src="https://komarev.com/ghpvc/?username=AMmadkhol41&style=flat-square&color=purple" alt="Profile views" />
+  <img src="https://img.icons8.com/fluency-systems-filled/48/000000/marker.png" alt="Location pin" width="48"/>
+  <p>📍 Pinpointing code paths like a true backend compass.</p>
 </section>
 
 ---
@@ -39,3 +40,4 @@ I’m a problem-solver, coffee enthusiast, and midnight coder. By day, I archite
   <p>“Code is like humor. When you have to explain it, it’s bad.”</p>
   <img src="https://github-readme-stats.vercel.app/api?username=AMmadkhol41&show_icons=true&theme=radical" alt="GitHub Stats" />
 </section>
+
