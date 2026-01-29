@@ -1,43 +1,14 @@
-<section align="center">
-  <h1>🌀 Hey there, I’m Ahmed Magdy</h1>
-  <p>A Madkhol adventurer building server-side magic behind the scenes.</p>
-  <img src="https://pngimg.com/uploads/google_maps_pin/google_maps_pin_PNG76.png" alt="Location pin" width="48"/>
-  <p>📍 Pinpointing code paths like a true backend compass.</p>
-</section>
+## 🌀 Ahmed Magdy
 
----
+**Backend adventurer crafting server-side magic** 📍 Cairo, Egypt
 
-## ✨ Who Am I
+Problem-solver, coffee-powered coder, and lifelong learner from Mansoura University. I build robust systems by day and chase bold ideas by night.
 
-I’m a problem-solver, coffee enthusiast, and midnight coder. By day, I architect robust systems; by night, I chase the next big idea.
+### 🎯 What I’m Into
 
-* 🎓 Lifelong learner from Mansoura University
-* 🌐 Proudly living and creating in Cairo, Egypt
-* 🚀 On a mission to make tech feel effortless
-* ☕ Fueled by espresso and curiosity
+* Elegant solutions to messy problems
+* Mentoring & sharing knowledge
+* Exploring AI, side projects, and game jams
+* Open source & late-night espresso
 
----
-
-## 🎯 What Lights Me Up
-
-* Crafting elegant solutions to complex puzzles
-* Mentoring fellow creators and sharing insights
-* Exploring new horizons: from AI to indie game jams
-* Celebrating small wins and big adventures
-
----
-
-## 🌍 Currently Up To
-
-* Reading the latest tech lore (when I’m not binging sci-fi)
-* Sketching ideas for a passion project (shh, secret!)
-* Contributing to open-source communities
-* Brewing the perfect cup of coffee
-
----
-
-<section align="center">
-  <p>“Code is like humor. When you have to explain it, it’s bad.”</p>
-  <img src="https://github-readme-stats.vercel.app/api?username=AMmadkhol41&show_icons=true&theme=radical" alt="GitHub Stats" />
-</section>
-
+> “Code is like humor. When you have to explain it, it’s bad.”
